@@ -8,7 +8,7 @@ I'm currently searching for Summer 2021 internships in SWE or frontend/web devel
 - Helping my school build up their AI community with [Western AI](https://www.facebook.com/westernuai)
 - Assisting student founders in bringing their dream ventures to life with [$25k SAFE investments](https://frontrow.ventures/)
 
-<img src="https://media.giphy.com/media/UQVe6R4bB6l66SpIwN/giphy.gif" width="50"> I’m learning ...
+### <img src="https://media.giphy.com/media/UQVe6R4bB6l66SpIwN/giphy.gif" width="50"> I’m learning ...
 - To sharpen my web dev skills - always down to work on neat projects
 - AI marketing techniques to boost the ROI of marketing campaigns
 
