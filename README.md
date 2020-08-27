@@ -1,5 +1,5 @@
 <img align='right' src="https://media.giphy.com/media/h5vCZ5J3EJBQ7IkvO9/giphy.gif" width="230">
-
+### Hiya! 
 I'm Jen (she/her), a Computer Science student at Western University. I'm a developer, startup enthusiast, film photographer, and avid concert-goer. Previously, I interned at [Big Viking Games](https://www.bigvikinggames.com/) as a Product Management/Business Intelligence Intern.
 I'm currently searching for Summer 2021 internships in SWE or frontend/web development. 
 
