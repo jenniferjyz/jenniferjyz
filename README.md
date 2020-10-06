@@ -13,10 +13,10 @@ I'm currently searching for Summer 2021 internships in SWE or frontend/web devel
 - To sharpen my web dev skills - always down to work on neat projects
 - AI marketing techniques to boost the ROI of marketing campaigns --->
 
-<!---### 💬 Ask me about ...
+### 💬 Ask me about ...
 - The student startup landscape in Canada
 - My concerns about climate change - especially the destruction of our coral reefs 😢
-- Tips on self development and well being--->
+- Tips on self development and well being
 
 ### 📫 Reach me on: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jennifer-jy-zhang/)](https://www.linkedin.com/in/jennifer-jy-zhang/) , ![Twitter Badge](https://img.shields.io/twitter/follow/jenniferjyzhang?style=social), [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jenniferz0401@gmail.com.com)](mailto:jenniferz0401@gmail.com)
