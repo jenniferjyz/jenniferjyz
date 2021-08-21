@@ -1,8 +1,9 @@
 ### Hey there! 👋✨
 <img align='right' src="https://media.giphy.com/media/h5vCZ5J3EJBQ7IkvO9/giphy.gif" width="230">
 
-I'm Jen (she/her), a Computer Science student at Western University. I'm a developer, startup enthusiast, film photographer, and avid concert-goer. Currently, I'm working part-time as a Software Engineer Intern at [Copysmith](https://www.copysmith.ai/). Previously, I interned at Big Viking Games as a Product Management/Business Intelligence Intern. 
-I'm currently searching for Summer 2021 internships in SWE or frontend/web development. 
+I'm Jen (she/her), a Computer Science student at Western University. I'm a developer, startup enthusiast, film photographer, and avid concert-goer. 
+I'm currently searching for Summer 2022 internships in SWE or product management. 
+Prev experiences: Data Science Intern at Canadian Tire Corporation, Software Engineer Intern at [Copysmith](https://www.copysmith.ai/), Product Management/Business Intelligence Intern at Big Viking Games. 
 
 ### <img src="https://media.giphy.com/media/1g0NvwH9ysw9XYhDi1/giphy.gif" width="30"> I’m working on ...
 - Helping my school build up their AI community with [Western AI](https://www.facebook.com/westernuai)
