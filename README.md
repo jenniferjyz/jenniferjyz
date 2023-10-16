@@ -3,6 +3,7 @@
 
 I'm Jen (she/her), a Computer Science student at Western University. I'm a developer, startup enthusiast, film photographer, and avid concert-goer. 
 I'm currently searching for Summer 2024 internships and New Graduate roles in product management or data science. 
+
 Prev experiences:
 - Product Manager Intern at [bld.ai](www.bld.ai), Product Manager Intern at Equinix
 -  Product Analytics Intern at Thumbtack
